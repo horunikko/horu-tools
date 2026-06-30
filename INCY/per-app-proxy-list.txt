@@ -559,3 +559,4 @@ wildberries.business
 www.metro.com
 youdrive.today
 ru.yandex.taximetr
+ru.dns.shop.android
