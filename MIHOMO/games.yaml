@@ -209,3 +209,4 @@ payload:
   - PROCESS-NAME,Raft.exe
   - PROCESS-NAME,Tanki.exe
   - PROCESS-NAME,REPO.exe
+  - PROCESS-NAME-REGEX,Roblox.*
