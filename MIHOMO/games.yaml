@@ -210,4 +210,3 @@ payload:
   - PROCESS-NAME,Tanki.exe
   - PROCESS-NAME,REPO.exe
   - PROCESS-NAME-REGEX,Roblox.*
-  - PROCESS-NAME,RobloxPlayerBeta.exe
