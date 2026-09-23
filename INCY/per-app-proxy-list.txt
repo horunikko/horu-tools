@@ -1,3 +1,4 @@
+com.google.android.projection.gearhead
 com.allgoritm.youla
 com.avito.android
 com.chaevieprosto.app
